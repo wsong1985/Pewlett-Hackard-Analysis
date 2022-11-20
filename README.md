@@ -6,7 +6,7 @@
 
 ## **Results**
 
-- **Created a Retirement Titles table that holds all the titles of employees who were born  1952-01-01 and 1955-12-31**
+- **Created a Retirement Titles table that holds all the titles of employees who were born  1952-01-01 and 1955-12-31.**
 
   <table>
   <tr>
@@ -19,7 +19,7 @@
   </tr>
   </table>
   
-- **Filtered data and removed duplicated rows by using DISTINCT ON paired with ORDER BY to only retain the latest title for each retirement-age employees**
+- **Filtered data and removed duplicated rows by using DISTINCT ON paired with ORDER BY to only retain the latest title for each retirement-age employees.**
   
   <table>
   <tr>
@@ -45,7 +45,7 @@
   </tr>
   </table>
   
-- **Created a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program. The candidates must be current emplopyees who were born in 1965**
+- **Created a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program. The candidates must be current emplopyees who were born in 1965.**
   
   <table>
   <tr>
