@@ -94,10 +94,10 @@ SELECT SUM (r.count) AS "Total of Retiring Employees"
 FROM retiring_titles as r;
 
 -- 6. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlet-Hackard employees?
-SELECT d.dept_name AS "Deptment Name",
+SELECT d.dept_name AS "Department Name",
 m.title AS "Job Title",
 m.mentor AS " Number of Retirement-Ready Employees",
-m.student AS " Number of Employees in Mentorship Program"
+m.student AS " Number of Employees Eligible for Mentorship Program"
 From(
 	SELECT e.dept_no,
 	e.title,
