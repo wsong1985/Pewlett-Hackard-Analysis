@@ -6,7 +6,7 @@
 
 ## **Results**
 
-- **Created a Retirement Titles table that holds all the titles of employees who were born  1952-01-01 and 1955-12-31.**
+- **Created a Retirement Titles table that holds all the titles of employees who were born between 1952-01-01 and 1955-12-31.**
 
   <table>
   <tr>
@@ -19,7 +19,7 @@
   </tr>
   </table>
   
-- **Filtered data and removed duplicated rows using DISTINCT ON paired with ORDER BY to only retain the latest title for each retirement-age employee.**
+- **Filtered data and removed duplicate rows using DISTINCT ON paired with ORDER BY to only retain the latest title for each retirement-age employee.**
   
   <table>
   <tr>
