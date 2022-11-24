@@ -19,7 +19,7 @@
   </tr>
   </table>
   
-- **Filtered data and removed duplicated rows by using DISTINCT ON paired with ORDER BY to only retain the latest title for each retirement-age employees.**
+- **Filtered data and removed duplicated rows using DISTINCT ON paired with ORDER BY to only retain the latest title for each retirement-age employee.**
   
   <table>
   <tr>
@@ -45,7 +45,7 @@
   </tr>
   </table>
   
-- **Created a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program. The candidates must be current emplopyees who were born in 1965.**
+- **Created a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program. The candidates must be current employees who were born in 1965.**
   
   <table>
   <tr>
@@ -77,7 +77,7 @@
 
 - **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlet-Hackard employees?**
 
-  - _We retieved the number of employees who are qualified for the mentorship program with different job titles in each department and compared them with the number of qualified , retirement-ready employees with the same job title in each department. As shown in the table below, there are enough retirement-ready employees in each department to mentor the next generation of Pewlet-Hackard employees._
+  - _We retrieved the number of employees who are qualified for the mentorship program with different job titles in each department and compared them with the number of qualified, retirement-ready employees with the same job title in each department. As shown in the table below, there are enough retirement-ready employees in each department to mentor the next generation of Pewlet-Hackard employees._
   
   <table>
   <tr>
